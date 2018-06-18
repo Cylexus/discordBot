@@ -2,11 +2,11 @@ const discordBotModule = require('./module');
 const discordBot = new discordBotModule("secret");
 
 var config = {
-        "token": "ur bot token",
-        "prefix": "!",
-        "name": "TestBoat",
+        "token": "NDU4MjM5MzEyNDA0ODA3NzEx.DgkwIw.tLllKClvA-M--g8qHv53wKtKWYg",
+        "prefix": "v!",
+        "name": "Varion",
         "playing": "bu bir selam",
-        "owner": ["403225819222245377", "211566381592739851"],
+        "owner": ["257047627261149185"],
         "readyMessage": "Bot çalışıyor"
 };
 
